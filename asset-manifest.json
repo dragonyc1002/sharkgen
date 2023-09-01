@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sharkgen/static/css/main.474e24b8.chunk.css",
+    "main.js": "/sharkgen/static/js/main.a649087a.chunk.js",
+    "main.js.map": "/sharkgen/static/js/main.a649087a.chunk.js.map",
+    "polyfills-dom.js": "/sharkgen/static/js/polyfills-dom.3007b3f2.chunk.js",
+    "polyfills-dom.js.map": "/sharkgen/static/js/polyfills-dom.3007b3f2.chunk.js.map",
+    "runtime-main.js": "/sharkgen/static/js/runtime-main.c8ad97a1.js",
+    "runtime-main.js.map": "/sharkgen/static/js/runtime-main.c8ad97a1.js.map",
+    "static/js/3.5c496bd9.chunk.js": "/sharkgen/static/js/3.5c496bd9.chunk.js",
+    "static/js/3.5c496bd9.chunk.js.map": "/sharkgen/static/js/3.5c496bd9.chunk.js.map",
+    "static/js/4.80c73347.chunk.js": "/sharkgen/static/js/4.80c73347.chunk.js",
+    "static/js/4.80c73347.chunk.js.map": "/sharkgen/static/js/4.80c73347.chunk.js.map",
+    "static/js/5.b99d03b9.chunk.js": "/sharkgen/static/js/5.b99d03b9.chunk.js",
+    "static/js/5.b99d03b9.chunk.js.map": "/sharkgen/static/js/5.b99d03b9.chunk.js.map",
+    "index.html": "/sharkgen/index.html",
+    "static/css/main.474e24b8.chunk.css.map": "/sharkgen/static/css/main.474e24b8.chunk.css.map",
+    "static/js/3.5c496bd9.chunk.js.LICENSE.txt": "/sharkgen/static/js/3.5c496bd9.chunk.js.LICENSE.txt",
+    "static/js/polyfills-dom.3007b3f2.chunk.js.LICENSE.txt": "/sharkgen/static/js/polyfills-dom.3007b3f2.chunk.js.LICENSE.txt",
+    "static/media/deadTurtle.c7271a07.png": "/sharkgen/static/media/deadTurtle.c7271a07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8ad97a1.js",
+    "static/js/3.5c496bd9.chunk.js",
+    "static/css/main.474e24b8.chunk.css",
+    "static/js/main.a649087a.chunk.js"
+  ]
+}
