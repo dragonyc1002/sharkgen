@@ -1,11 +1,11 @@
 {
-  "name": "AC-Message-Generator",
+  "name": "Shark-Message-Generator",
   "version": "1.0.0",
-  "description": "Generate a discord message that looks like AC's saying",
+  "description": "Generate a discord message that looks like Shark's saying",
   "main": "index.js",
-  "author": "kyometori",
+  "author": "kyometori/dragonyc1002",
   "license": "",
-  "homepage": "https://kyometori.github.io/acgen",
+  "homepage": "https://dragonyc1002.github.io/sharkgen",
   "dependencies": {
     "@skyra/discord-components-core": "^2.11.2",
     "@skyra/discord-components-react": "^2.11.2",
@@ -20,10 +20,10 @@
     "yarn": "^1.22.11"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts --openssl-legacy-provider test",
+    "eject": "react-scripts --openssl-legacy-provider eject",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

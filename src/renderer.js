@@ -1,8 +1,7 @@
 import React from 'react';
-import avatar_sena_shiawase from './asset/avatar-sena-shiawase.png';
-import avatar_sena_julietta from './asset/avatar-sena-julietta.png'
-import avatar_diep from './asset/avatar-diep.png';
-import avatar_chocomint from './asset/avatar-chocomint.png';
+import avatar_deadTurtle from './asset/deadTurtle.png';
+import avatar_black from './asset/black.png'
+
 import {
   DiscordMessages,
   DiscordMessage,
@@ -10,10 +9,8 @@ import {
 } from '@skyra/discord-components-react';
 
 const avatar = {
-  sena_shiawase: avatar_sena_shiawase,
-  sena_julietta: avatar_sena_julietta,
-  diep: avatar_diep,
-  chocomint: avatar_chocomint
+  deadTurtle: avatar_deadTurtle,
+  black: avatar_black
 }
 
 export default function Renderer(props) {
